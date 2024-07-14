@@ -1,0 +1,35 @@
+COMPUTER PROGRAMMING
+
+A program requires CPU and RAM
+
+
+                    High Voltage
+                           |
+                           |
+Machine Language ------>   1/0   ------> Binary Language
+                             |
+                             |
+                        Low Voltage
+
+
+
+=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x
+
+
+High Level Language--------                   File 
+                          |                     |                       ---------------------Memory (RAM)
+                          |                     |                       |
+                          |                     |                       |
+Mid Level Language--------|----------------  Program   -----------------|
+                          |                     |                       |
+                          |                     |                       |
+                          |                     |                       ---------------------Processing (CPU)   CPU Memory---
+Low Level Language---------               Set Of Instruction                                                                |
+                                                                                                                            |
+                                                                                                                            |--- Cache
+                                                                                                                            |
+                                                                                                                            |--- Register
+
+
+=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x
+
