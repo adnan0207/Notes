@@ -1,0 +1,15 @@
+
+JAVA
+
+JDK - Java Development Kit              javac
+JRE - Java Runtime Environment          java
+JVM - Java Virtual Machine              jit
+
+
+
+Source Code -----------> Byte Code -----------> Machine Code
+
+
+javac ProgramName.java   --------------->   Compile
+java ProgramName         --------------->   Run
+
