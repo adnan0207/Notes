@@ -1,0 +1,6 @@
+LIBRARY IN JAVA
+
+Library - Set of files which contains frequently used logics and consist of large number of methods which are commonly used.
+
+In java library there are many jar files (.jar - java archive) these are compressed files.
+It consist of many .class files.
